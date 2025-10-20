@@ -1,0 +1,6 @@
+{
+  "name": "Cypress Codespace",
+  "image": "cypress/included:15.5.0",
+  "workspaceFolder": "/workspace",
+  "postCreateCommand": "npm install"
+}
